@@ -7,20 +7,15 @@
 
 
 # 💫 About Me:
--🌱 I’m currently learning Data Science bootcamps.
--🌱 medium --> https://medium.com/@maneenoot65
--🌱 Contact and suggest more --> Mameemoot65@gmail.com
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+
+- 🌱 I’m currently learning Data Science bootcamps.
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🔭 medium --> https://medium.com/@maneenoot65
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Contact and suggest more --> Mameemoot65@gmail.com
 
 
 ## 🌐 Socials:
