@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://camo.githubusercontent.com/c6deab2f711f5000f9f6fc6e38a4f413ed50392c11a2938a351155cb137c6c81/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38332f33652f36363833336530376436666239656235643732346534376430633831343238352e6769663f7261773d74727565" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Maneenoot</div>  
+
+
 # 💫 About Me:
 🌱 I’m currently learning Data Science.
 
