@@ -15,7 +15,7 @@
 - 🔭 medium --> https://medium.com/@maneenoot65
   
 
-- ⚡ Contact and suggest more --> Mameemoot65@gmail.com
+- ⚡ Contact and suggest more --> Maneenoot65@gmail.com
 
 
 ## 🌐 Socials:
