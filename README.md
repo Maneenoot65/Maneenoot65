@@ -8,8 +8,8 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Data Science bootcamps.
-medium --> https://medium.com/@maneenoot65
-Contact and suggest more --> Mameemoot65@gmail.com
+🌱 medium --> https://medium.com/@maneenoot65
+🌱 Contact and suggest more --> Mameemoot65@gmail.com
 
 
 ## 🌐 Socials:
